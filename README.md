@@ -1,1 +1,1 @@
-# This are some simple python functions.😃
+# These are some simple python functions.😃
